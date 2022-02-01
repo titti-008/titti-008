@@ -5,6 +5,15 @@
 * 2021年1月　29歳にして趣味でプログラミングを触ってみたら完全にハマってしまう。
 * 2021年12月　プログラミング愛が深まりすぎたためキャリアを捨てて転職活動開始
 
+# ポートフォリオ
+* 概要:米国株分析SNSサイト
+  * バックエンドAPI: Rails　
+  * フロントエンド:React、Typescript
+  * ESLint,prettier使用
+  * インフラ:AWS、heroku
+  * レポジトリ:[https://github.com/titti-008/app_211028_stock_sns_frontend_3](https://github.com/titti-008/app_211028_stock_sns_frontend_3)
+
+
 
 # 趣味とその遍歴
 *  音楽
@@ -103,8 +112,6 @@
         * (書籍)[いちばんやさしいブロックチェーンの教本](https://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AE%E6%95%99%E6%9C%AC-%E4%BA%BA%E6%B0%97%E8%AC%9B%E5%B8%AB%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF-%E3%80%8C%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%99%E6%9C%AC%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%9D%89%E4%BA%95%E9%9D%96%E5%85%B8/dp/4295001449/ref=sr_1_15?adgrpid=103548542305&gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gbsh34iPdFWQFw0fw6Mj1HLatujjgDotG4ltwwxYXhSy1ik_yZFIHkaAuNwEALw_wcB&hvadid=553897215559&hvdev=c&hvlocphy=1009337&hvnetw=g&hvqmt=e&hvrand=2218525989496269133&hvtargid=kwd-425750770744&hydadcr=16039_13486741&jp-ad-ap=0&keywords=%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%9C%AC&qid=1643212691&sr=8-15)
         * (書籍) [図解即戦力 ブロックチェーンのしくみと開発がこれ1冊でしっかりわかる教科書](https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3%E5%8D%B3%E6%88%A6%E5%8A%9B-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF%E3%81%A8%E9%96%8B%E7%99%BA%E3%81%8C%E3%81%93%E3%82%8C1%E5%86%8A%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%82%8F%E3%81%8B%E3%82%8B%E6%95%99%E7%A7%91%E6%9B%B8-%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9%E3%83%BB%E3%83%99%E3%82%A4%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/dp/4297106361/ref=sr_1_1_sspa?adgrpid=103548542305&gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gbsh34iPdFWQFw0fw6Mj1HLatujjgDotG4ltwwxYXhSy1ik_yZFIHkaAuNwEALw_wcB&hvadid=553897215559&hvdev=c&hvlocphy=1009337&hvnetw=g&hvqmt=e&hvrand=2218525989496269133&hvtargid=kwd-425750770744&hydadcr=16039_13486741&jp-ad-ap=0&keywords=%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%9C%AC&qid=1643212691&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNFczVVNaWFBQMUU1JmVuY3J5cHRlZElkPUEwNTA5NDEyUVZJSzhYMFJCUlNLJmVuY3J5cHRlZEFkSWQ9QTNSNTBaS0swMEFHMFUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
-# 私の仕事感
-* 論点が結構ズレる気がしたので詳細は別の記事で解説したいと思います。
 
 
 <!--
